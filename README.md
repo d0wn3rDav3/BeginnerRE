@@ -2,7 +2,7 @@
 
 <b>Beginner RE Challenges.</b>
 
-The binaries were compiled on Linux i686 using GCC. These can be statically analyzed on Windows using IDA however some will have to be dynamically analyzed. I suggest using Radare, gdb, and other native Linux tools.  For hints please email: ```dforbes85@gmail.com``` 
+The binaries were compiled on Linux i686 using GCC. These can be statically analyzed on Windows using IDA however some will have to be dynamically analyzed. I suggest using Radare, gdb, and other native Linux tools.
 
 <b>Static Analysis Tools</b>
 
